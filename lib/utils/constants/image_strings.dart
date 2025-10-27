@@ -25,4 +25,14 @@ class TImages{
 
   static const String google = "assets/icons/google-icon.png";
   static const String facebook = "assets/icons/facebook.png";
+
+  // banners
+
+static const String promoBanner1 = "assets/images/banners/banner1.webp";
+static const String promoBanner2 = "assets/images/banners/banner2.jpg";
+static const String promoBanner3 = "assets/images/banners/banner3.jpg";
+
+
+
+
 }
